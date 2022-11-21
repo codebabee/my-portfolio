@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: linear-gradient(180deg, rgb(165, 79, 142), rgb(66, 10, 66));
+    background-color: black;
+    font-family: 'Vidaloka';
+    width: 100%;
+    height: 100%;
+    position: relative;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+    h5 {
+    font-family: 'Sacramento';
+    color:rgb(6, 105, 151);
+    font-size: 15px;
+}
+
+main {
+    color: black;
+    width: 60%;
+    height: 700px;
+    margin: auto;
+    margin-top: 3%;
+    background-color: white;}
+    
+#container1 {
+    width: 30%;
+    text-align: justify;
+    margin: 10%;
+    text-align: justify;
+    
+}
+img {
+    width: 200px;
+    height: 200px;
+    align-content: flex-end ;
+    margin-top: 30px;
+}
+h1 {
+    font-size: 60px;
+    /* color: rgb(249, 121, 249); */
+}
+#wrapper {
+    display: flex;
+    justify-content: baseline;
+    margin: auto;
+    margin-top: 2%;
+}
+#wrapperr {
+    display: flex;
+    justify-content: baseline;
+}
+#container2 {
+    width: 15%;
+    color: black;
+    margin: 10%;
+    padding: 30px;
+    margin-top: -2px;
+    height: 120px;;
+    font-size: 15px;
+    text-align: justify;
+    border-left-color: rgb(239, 111, 239);
+    border-bottom-color: rgb(249, 121, 249);
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+#skills {
+    width: 10%;
+    color: black;
+    margin: 10%;
+    padding: 30px;
+    margin-top: -2px;
+    height: 120px;
+    text-align: justify;
+    border-left-color: rgb(239, 111, 239);
+    border-bottom-color: rgb(249, 121, 249);
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+td {
+    border: 1px solid rgb(249, 121, 249);
+    border-radius: 5px;
+    gap: 10px;
+    padding: 5px;
+}
+h4 {
+    font-size: 20px;
+    color: white;
+}
+#text-down {
+    text-align: center;
+   margin-top: -40px;
+}
